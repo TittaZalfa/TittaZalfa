@@ -10,9 +10,9 @@
 </p>
 
 <!-- <h3 align="left">Technologies:</h3>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> -->
 <p align="left">   </p>
-<br/> -->
+<br/>
 
 # Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TittaZalfa&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
