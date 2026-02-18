@@ -1,6 +1,6 @@
 <h1 align="center">Titta Zalfa Faliha Mukti</h1>
 <h3 align="center">Junior Programmer</h3>
-<img align="right" alt="Snoopy Peanut" width="400" src="https://www.icegif.com/wp-content/uploads/2025/04/snoopy-icegif-5.gif"
+<img align="right" alt="Snoopy Peanut" margin-bottom="10px" width="400" src="https://www.icegif.com/wp-content/uploads/2025/04/snoopy-icegif-5.gif"
 
 <!-- Apprenticeship at [PT LookMedia](https://lookmedia.co.id/) -->
 
